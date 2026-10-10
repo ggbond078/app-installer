@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.5",
+  "downloadUrl": "kettle-launcher-x86-1.0.5.msi",
+  "fileName": "kettle-launcher-x86-1.0.5.msi",
+  "sha256": "f2e7a6c6c8aec3992e0e129071ba2be6b51f056d84bd1929f22f5538bbe0b356",
+  "sizeBytes": 164232026,
+  "notes": [
+    "修复运行时包缺少 HTTPOUTPUT 上报插件导致转换无法初始化",
+    "在线更新清单地址改为 latest.json（不再按版本号命名）",
+    "运行时包升级到 pdi8.2.0.0-342-x86-r2"
+  ]
+}
