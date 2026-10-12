@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.5",
+  "downloadUrl": "https://github.com/ggbond078/app-installer/releases/download/v1.4/kettle-launcher-x86-1.0.5.msi",
+  "fileName": "kettle-launcher-x86-1.0.5.msi",
+  "sha256": "336c481030033b327289f2429a8d3219fe48bfec2b14a0005f5448a1bac08449",
+  "sizeBytes": 164232026,
+  "notes": [
+    "修复运行时包缺少 HTTPOUTPUT 上报插件导致转换无法初始化",
+    "更新清单地址改为仓库 main 分支的 kettle-launcher-x86.update.json",
+    "运行时包升级到 pdi8.2.0.0-342-x86-r2"
+  ]
+}
