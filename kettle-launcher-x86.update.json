@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "1.0.7",
-  "downloadUrl": "https://github.com/ggbond078/app-installer/releases/download/v1.0.7/kettle-launcher-x86-1.0.7.msi",
+  "downloadUrl": "https://github.com/ggbond078/app-installer/releases/download/v1.0.6/kettle-launcher-x86-1.0.7.msi",
   "fileName": "kettle-launcher-x86-1.0.7.msi",
   "sha256": "57c06d575d75fe71930a44fe87f29b00571954f827c858b66657a4ce819963ce",
   "sizeBytes": 164232026,
