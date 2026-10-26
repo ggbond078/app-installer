@@ -3,11 +3,11 @@
   "version": "1.0.6",
   "downloadUrl": "https://github.com/ggbond078/app-installer/releases/download/v1.0.6/kettle-launcher-x86-1.0.6.msi",
   "fileName": "kettle-launcher-x86-1.0.6.msi",
-  "sha256": "336c481030033b327289f2429a8d3219fe48bfec2b14a0005f5448a1bac08449",
+  "sha256": "1a6519e639f6c1cfd2c2ac167bab199e7b493d98742d738ce3908d3a50f3834e",
   "sizeBytes": 164232026,
   "notes": [
-    "修复运行时包缺少 HTTPOUTPUT 上报插件导致转换无法初始化",
-    "更新清单地址改为仓库 main 分支的 kettle-launcher-x86.update.json",
-    "运行时包升级到 pdi8.2.0.0-342-x86-r2"
+    "修复在线更新弹窗点击无响应：按下与抬起之间按压状态被清空，按钮不再触发",
+    "修复主界面自绘按钮、开关与标签页的同类点击问题",
+    "运行时包与 1.0.5 相同（pdi8.2.0.0-342-x86-r2）"
   ]
 }
