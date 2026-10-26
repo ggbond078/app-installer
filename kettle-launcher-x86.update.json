@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.5",
-  "downloadUrl": "https://github.com/ggbond078/app-installer/releases/download/v1.0.6/kettle-launcher-x86-1.0.6.msi",
-  "fileName": "kettle-launcher-x86-1.0.6.msi",
-  "sha256": "1a6519e639f6c1cfd2c2ac167bab199e7b493d98742d738ce3908d3a50f3834e",
+  "version": "1.0.7",
+  "downloadUrl": "https://github.com/ggbond078/app-installer/releases/download/v1.0.7/kettle-launcher-x86-1.0.7.msi",
+  "fileName": "kettle-launcher-x86-1.0.7.msi",
+  "sha256": "57c06d575d75fe71930a44fe87f29b00571954f827c858b66657a4ce819963ce",
   "sizeBytes": 164232026,
   "notes": [
-    "修复在线更新弹窗点击无响应：按下与抬起之间按压状态被清空，按钮不再触发",
-    "修复主界面自绘按钮、开关与标签页的同类点击问题",
-    "运行时包与 1.0.5 相同（pdi8.2.0.0-342-x86-r2）"
+    "在线更新流程验证版本：功能与 1.0.6 相同，仅版本号递增",
+    "用于验证 1.0.6 → 1.0.7 的检查、下载、SHA-256 校验与静默安装",
+    "运行时包与 1.0.6 相同（pdi8.2.0.0-342-x86-r2）"
   ]
 }
